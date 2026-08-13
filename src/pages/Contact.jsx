@@ -121,7 +121,7 @@ ${formData.message}
                 </p>
 
                 <p className="text-slate-900 font-medium">
-                  amaanw08@gmail.com
+                  sales.epicgoods001@gmail.com
                 </p>
               </div>
 
